@@ -138,7 +138,7 @@ def fetch():
             else:
                 print("Error: Unable to get info for", f"{appid}-{arch}")
             if name not in results:
-                results[name] = info
+                results[name] = channel + info
             elif version_tuple(info["version"]) > version_tuple(
                 results[name]["version"]
             ):
@@ -228,3 +228,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
