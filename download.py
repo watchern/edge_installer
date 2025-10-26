@@ -22,7 +22,7 @@ def check_update():
     last_version = get_last_version()
     with open("data.json", "r") as f:
         data = json.load(f)
-        latest_version = data["msedge-stable-win-x64"]["version"]
+        latest_version = data["msedge-beta-win-x64"]["version"]
     github_env = os.getenv("GITHUB_ENV")
     if github_env and os.path.exists(github_env):
         with open(github_env, "a") as env_file:
@@ -58,9 +58,9 @@ def download_file(url, name):
 
 def download():
     versions = [
-        "msedge-stable-win-x86",
-        "msedge-stable-win-x64",
-        "msedge-stable-win-ARM64",
+        "msedge-beta-win-x86",
+        "msedge-beta-win-x64",
+        "msedge-beta-win-ARM64",
     ]
     if check_update():
         print("New version detected, start downloading...")
