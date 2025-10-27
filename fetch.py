@@ -78,7 +78,7 @@ def get_download_link(appid, version):
             sha256 = hashes.get("Sha256", "")
 
             return {
-                "文件名": file_id,
+                "文件名": appid +version + file_id,
                 "下载链接": url,
                 "字节大小": size_in_bytes,
                 "Sha1": sha1,
@@ -228,4 +228,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
