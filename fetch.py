@@ -78,7 +78,7 @@ def get_download_link(appid, version):
             sha256 = hashes.get("Sha256", "")
 
             return {
-                "文件名": appid +version + file_id,
+                "文件名": appid + file_id,
                 "下载链接": url,
                 "字节大小": size_in_bytes,
                 "Sha1": sha1,
@@ -184,7 +184,7 @@ def decode_sha256_base64():
 
 
 def save_md():
-    index_url = "https://github.com/Bush2021/edge_installer?tab=readme-ov-file#"
+    index_url = "https://bgithub.xyz/Bush2021/edge_installer?tab=readme-ov-file#"
     with open("readme.md", "w") as f:
         f.write(f"# Microsoft Edge 离线安装包下载链接（请使用 7-Zip 解压）\n")
         f.write(
@@ -228,6 +228,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
