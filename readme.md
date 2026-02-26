@@ -23,18 +23,18 @@
 * [canary ARM64](https://bgithub.xyz/Bush2021/edge_installer?tab=readme-ov-file#canary-ARM64)
 
 ## stable x86
-**最新版本**：145.0.3800.70  
-**文件大小**：157.66 MB  
-**文件名**：msedge-stable-win-x86MicrosoftEdge_X86_145.0.3800.70.exe  
-**校验值（Sha256）**：0fb2d711a3414f8ab620a3c399ecc2e6960f4e860ff36e3da42d6ca428969b09  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/34b16b22-17c1-4001-95ff-fc55cd6a9ab1?P1=1772235247&P2=404&P3=2&P4=YCV0nMQSNs189LefPc%2bV%2bGG%2byinUtMIW2tQVbuqC5zD6wBF%2f8fbED5W5oRq4aAkqN1NY%2fsvWsCHoTtCsfgtPyg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/34b16b22-17c1-4001-95ff-fc55cd6a9ab1?P1=1772235247&P2=404&P3=2&P4=YCV0nMQSNs189LefPc%2bV%2bGG%2byinUtMIW2tQVbuqC5zD6wBF%2f8fbED5W5oRq4aAkqN1NY%2fsvWsCHoTtCsfgtPyg%3d%3d)  
+**最新版本**：145.0.3800.82  
+**文件大小**：157.78 MB  
+**文件名**：msedge-stable-win-x86MicrosoftEdge_X86_145.0.3800.82.exe  
+**校验值（Sha256）**：338ef697993fdf1407f55a8c4d9654ef5ac5dbea571ac27abb470fda338b5106  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/86f11a35-6941-4924-9077-6a3cccac2207?P1=1772750349&P2=404&P3=2&P4=Or0aoqrm5l98oDDZMA%2f5sJVentOyYVoVOsHU7TOfwXnrL1ayvTT1yF2bUH0TWDDuqPx5fZBNyBjJekxLFhijpQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/86f11a35-6941-4924-9077-6a3cccac2207?P1=1772750349&P2=404&P3=2&P4=Or0aoqrm5l98oDDZMA%2f5sJVentOyYVoVOsHU7TOfwXnrL1ayvTT1yF2bUH0TWDDuqPx5fZBNyBjJekxLFhijpQ%3d%3d)  
 
 ## stable x64
-**最新版本**：145.0.3800.70  
-**文件大小**：177.89 MB  
-**文件名**：msedge-stable-win-x64MicrosoftEdge_X64_145.0.3800.70.exe  
-**校验值（Sha256）**：378186bc516ad5d0131d99c1336f7c83ea400eb27058d99c6badbe45ac02a719  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/378c042f-8ddf-4abe-a6e6-502e6977a21d?P1=1772235248&P2=404&P3=2&P4=EAr4hLRq0jJNrsS1ogCg9Twmj%2bhh5Fo5RobuFkAj8oj%2fN871jMOu%2bHAOYpgb1i%2bDzxVLoZYonShLwGwFSUX%2beg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/378c042f-8ddf-4abe-a6e6-502e6977a21d?P1=1772235248&P2=404&P3=2&P4=EAr4hLRq0jJNrsS1ogCg9Twmj%2bhh5Fo5RobuFkAj8oj%2fN871jMOu%2bHAOYpgb1i%2bDzxVLoZYonShLwGwFSUX%2beg%3d%3d)  
+**最新版本**：145.0.3800.82  
+**文件大小**：177.95 MB  
+**文件名**：msedge-stable-win-x64MicrosoftEdge_X64_145.0.3800.82.exe  
+**校验值（Sha256）**：7fb36cdde3d7731c9dd4621a9e261164732d548ada41087b5cdfd634af032365  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/17374993-a897-4416-b3cf-17a4b7fdbe9e?P1=1772750350&P2=404&P3=2&P4=kW6gXhuZL8ykqorhXJJHQsE1iUGvGs8FASf7yCwHUELi3Mpo8fA1qd7q3mUk1RbVfNx%2f99ui7xJsdeM1npvEJA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/17374993-a897-4416-b3cf-17a4b7fdbe9e?P1=1772750350&P2=404&P3=2&P4=kW6gXhuZL8ykqorhXJJHQsE1iUGvGs8FASf7yCwHUELi3Mpo8fA1qd7q3mUk1RbVfNx%2f99ui7xJsdeM1npvEJA%3d%3d)  
 
 ## stable ARM64
 **最新版本**：145.0.3800.82  
