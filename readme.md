@@ -23,11 +23,11 @@
 * [canary ARM64](https://bgithub.xyz/Bush2021/edge_installer?tab=readme-ov-file#canary-ARM64)
 
 ## stable x86
-**最新版本**：145.0.3800.82  
-**文件大小**：157.78 MB  
-**文件名**：msedge-stable-win-x86MicrosoftEdge_X86_145.0.3800.82.exe  
-**校验值（Sha256）**：338ef697993fdf1407f55a8c4d9654ef5ac5dbea571ac27abb470fda338b5106  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/86f11a35-6941-4924-9077-6a3cccac2207?P1=1773099130&P2=404&P3=2&P4=isMLSRO5LPLJ4xkOVH2fJeJHXa30OdLPvqKuNAfirHBdSJ%2fj6UslXymSfZEGMg5Rn9fxSnrLzEa4luzZ99shyg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/86f11a35-6941-4924-9077-6a3cccac2207?P1=1773099130&P2=404&P3=2&P4=isMLSRO5LPLJ4xkOVH2fJeJHXa30OdLPvqKuNAfirHBdSJ%2fj6UslXymSfZEGMg5Rn9fxSnrLzEa4luzZ99shyg%3d%3d)  
+**最新版本**：145.0.3800.97  
+**文件大小**：157.79 MB  
+**文件名**：msedge-stable-win-x86MicrosoftEdge_X86_145.0.3800.97.exe  
+**校验值（Sha256）**：d6dae84028cdd1c36e28489ffff9d30a1636a014dd638e68a24230185dacdea0  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7cc48ba2-8dcd-419e-bf09-06b8624d1011?P1=1773430650&P2=404&P3=2&P4=Uz3g7%2fUG6zs0%2fBUW6hJOKvZoGok8TonnDISZ7NlSlKQSamPAiwX6LLgwu%2b%2fMtsgFxg0hRYXQwKxoePKgv%2bEwrg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7cc48ba2-8dcd-419e-bf09-06b8624d1011?P1=1773430650&P2=404&P3=2&P4=Uz3g7%2fUG6zs0%2fBUW6hJOKvZoGok8TonnDISZ7NlSlKQSamPAiwX6LLgwu%2b%2fMtsgFxg0hRYXQwKxoePKgv%2bEwrg%3d%3d)  
 
 ## stable x64
 **最新版本**：145.0.3800.82  
